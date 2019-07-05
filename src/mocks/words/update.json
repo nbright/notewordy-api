@@ -1,0 +1,11 @@
+{
+    "body": "{ \"word\": \"stranger-1\", \"meaning\": \"someone whom you don't know or who doesn't belong in a specific place\", \"example\": \"Don't talk to strangers.-1\" }",
+    "requestContext": {
+       "identity": {
+          "cognitoIdentityId": "TEST-LOCAL-USER-A"
+       }
+    },
+    "pathParameters": {
+        "id": "86d2a290-9dea-11e9-8eed-e1cc060e1fbb"
+    }
+ }
