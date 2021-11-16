@@ -9,7 +9,7 @@
     "prodDeploy": "serverless deploy --stage prod --region ap-northeast-2"
   },
   "dependencies": {
-    "aws-sdk": "^2.487.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.19.0",
     "source-map-support": "^0.5.10",
     "uuid": "^3.3.2"
